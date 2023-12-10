@@ -1,2 +1,6 @@
 # cit-415
- PHP OOP Approach
+PHP OOP Approach
+
+NAME: Paul Ndalila
+UNIT: CIT 415 - WEB APPLICATIONS & PROGRAMMING
+ADM NO.: CIT/00225/019
