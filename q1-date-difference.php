@@ -20,7 +20,7 @@
     $endDate = '2013-09-04';
 
     //instatiate class
-    $dateDifferenceCalculator = new CalculateDifference('1981-11-03', '2013-09-04');
+    $dateDifferenceCalculator = new CalculateDifference($startDate, $endDate);
 
     // Getting the difference and display
     $date_difference = $dateDifferenceCalculator->getDateDifference();
